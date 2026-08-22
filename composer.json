@@ -1,0 +1,9 @@
+{
+    "name": "pushinbr/pam-native-laravel-sync",
+    "description": "Compatibility package for pushinbr/pam-native-sync-laravel.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "require": {
+        "pushinbr/pam-native-sync-laravel": "^0.2"
+    }
+}
